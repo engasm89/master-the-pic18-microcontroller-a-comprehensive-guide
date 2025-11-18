@@ -55,19 +55,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Master the PIC18 Microcontroller: A Comprehensive Guide
-
-- Course: Master the PIC18 Microcontroller: A Comprehensive Guide
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/pic18-microcontroller-step-by-step-guide/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Learn PIC18 architecture, peripherals, and efficient firmware patterns.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and master PIC18.
